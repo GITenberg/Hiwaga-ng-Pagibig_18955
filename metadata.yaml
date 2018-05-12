@@ -1,0 +1,24 @@
+_repo: Hiwaga-ng-Pagibig_18955
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18955-h/images/cover_t.jpg
+creator:
+  author:
+    agent_name: Nanong, Balbino B.
+    gutenberg_agent_id: '8363'
+    url: http://www.gutenberg.org/2009/agents/8363
+description: ''
+gutenberg_issued: '2006-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18955'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PL'
+title: Hiwaga ng Pagibig
+url: http://www.gutenberg.org/ebooks/18955
